@@ -1,0 +1,15 @@
+C:\Users\delue\documents\ResumeSkillsFinder\bin\Debug\net7.0\ResumeSkillsFinder.exe
+C:\Users\delue\documents\ResumeSkillsFinder\bin\Debug\net7.0\ResumeSkillsFinder.deps.json
+C:\Users\delue\documents\ResumeSkillsFinder\bin\Debug\net7.0\ResumeSkillsFinder.runtimeconfig.json
+C:\Users\delue\documents\ResumeSkillsFinder\bin\Debug\net7.0\ResumeSkillsFinder.dll
+C:\Users\delue\documents\ResumeSkillsFinder\bin\Debug\net7.0\ResumeSkillsFinder.pdb
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.csproj.AssemblyReference.cache
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.AssemblyInfoInputs.cache
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.AssemblyInfo.cs
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.csproj.CoreCompileInputs.cache
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.dll
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\refint\ResumeSkillsFinder.dll
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.pdb
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ResumeSkillsFinder.genruntimeconfig.cache
+C:\Users\delue\documents\ResumeSkillsFinder\obj\Debug\net7.0\ref\ResumeSkillsFinder.dll
